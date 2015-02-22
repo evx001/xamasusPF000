@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="xamasusPF000\xamasusPF000.csproj" />
+﻿<Properties StartupItem="xamasusPF000\xamasusPF000.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xamasusPF000\xamasusPF000.cs">
+    <Files>
+      <File FileName="xamasusPF000\xamasusPF000.cs" Line="6" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
