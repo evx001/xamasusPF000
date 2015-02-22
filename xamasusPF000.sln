@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamasusPF000", "xamasusPF000\xamasusPF000.csproj", "{48CD98AF-F2E0-4D16-AF6A-5C11AA8281E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamasusPF000.Droid", "Droid\xamasusPF000.Droid.csproj", "{730241DE-096F-46C5-810D-A0ECF73EA791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CD98AF-F2E0-4D16-AF6A-5C11AA8281E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CD98AF-F2E0-4D16-AF6A-5C11AA8281E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CD98AF-F2E0-4D16-AF6A-5C11AA8281E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CD98AF-F2E0-4D16-AF6A-5C11AA8281E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730241DE-096F-46C5-810D-A0ECF73EA791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730241DE-096F-46C5-810D-A0ECF73EA791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730241DE-096F-46C5-810D-A0ECF73EA791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730241DE-096F-46C5-810D-A0ECF73EA791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
